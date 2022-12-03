@@ -1,1 +1,1 @@
-my read me for vagrant 
+*This file is mandatory in projects*
