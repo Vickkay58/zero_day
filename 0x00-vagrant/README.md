@@ -1,1 +1,1 @@
-This file is mandatory in projects*[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D*
+ prints the name, version and other details about the current machine and the operating system running on it
